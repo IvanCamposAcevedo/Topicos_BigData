@@ -1,8 +1,8 @@
 print("Estructura condicionales")
 
 #Condicional Simple
-nota_TBI=17
-if nota_TBi >= 10.51:
+nota=17
+if nota >= 10.51:
     print("Aprobaste")
 
 #Condicional Aoble

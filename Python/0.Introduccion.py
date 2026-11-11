@@ -13,11 +13,11 @@ a=25
 print (type(a))
 
 #Decimales
-b=14.589
+b=17.589
 print (type(b))
 
 #Texto
-nombre="Jhon"
+nombre="Ivan"
 print (type(nombre))
 
 #Logicos
